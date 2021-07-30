@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Vaibhav\\anaconda3\\python.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}
